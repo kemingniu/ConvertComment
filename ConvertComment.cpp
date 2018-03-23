@@ -1,3 +1,6 @@
+#include<iostream>
+using namespace std;
+
 extern "C" int ConvertComment(FILE *inputfile, FILE *outputfile);
 
 typedef enum
